@@ -36,10 +36,10 @@ Examples
 #### python3 script.py -d domains.txt -o results.txt
 
 ## Check a single domain and save results:
-### python3 script.py -D example.com -o results.txt
+#### python3 script.py -D example.com -o results.txt
 
 ## Check domains and open URLs in the browser:
-### python3 script.py -d domains.txt -o results.txt --open-browser
+#### python3 script.py -d domains.txt -o results.txt --open-browser
 
 ## How It Works
 
