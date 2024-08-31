@@ -33,7 +33,7 @@ Command Line Arguments
 
 Examples
 ## Check a list of domains from a file and save results:
-### python3 script.py -d domains.txt -o results.txt
+#### python3 script.py -d domains.txt -o results.txt
 
 ## Check a single domain and save results:
 ### python3 script.py -D example.com -o results.txt
